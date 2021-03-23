@@ -5,5 +5,5 @@ applications:
       - route: pal-tracker-vinaybajaj.apps.evans.pal.pivotal.io/
 
     env:
-      WELCOME_MESSAGE: Hello from the review environment
+      WELCOME_MESSAGE: Hello from the review env
       JBP_CONFIG_OPEN_JDK_JRE: '{ jre: { version: 11.+ } }'
